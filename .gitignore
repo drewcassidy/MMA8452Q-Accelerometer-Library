@@ -1,0 +1,12 @@
+## macOS
+.DS_Store
+
+## Doxygen
+html
+
+## CMake
+CMakeLists.txt
+cmake-build-debug
+.pioenvs
+.piolibdeps
+CMakeListsPrivate.txt
